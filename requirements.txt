@@ -1,5 +1,3 @@
-python-binance
-from binance.client import Client
-requests
+binance-connector
+pandas
 python-dotenv
-ta
