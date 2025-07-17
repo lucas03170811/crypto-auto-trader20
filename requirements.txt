@@ -1,2 +1,5 @@
 python-binance
+binance-connector
 requests
+python-dotenv
+ta
