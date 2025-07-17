@@ -1,3 +1,5 @@
-binance-connector
+binance-connector==3.5.1
 pandas
+numpy
+ta
 python-dotenv
