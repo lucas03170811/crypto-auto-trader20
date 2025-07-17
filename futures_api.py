@@ -1,6 +1,6 @@
 import os
 import time
-from binance.um_futures import UMFutures
+from binance.client import Client
 from binance.error import ClientError
 from utils import calculate_rsi, calculate_volume_signal, get_klines
 
